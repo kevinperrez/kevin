@@ -1,0 +1,6 @@
+Benutzeroberfläche
+schaltanzeige
+hinzufügen
+ändern
+entfernen
+speichern
